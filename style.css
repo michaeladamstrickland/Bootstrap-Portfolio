@@ -1,0 +1,69 @@
+body{
+    background-color: black;
+    
+}
+
+.NAME{
+    background-color: teal;
+    font-size: 40px;
+    font-style: bold;
+    height: 50px;
+    margin-left: 14%;
+}
+.navbar{
+    background-color: #ffffff;
+    justify-content: space-between;
+    border-color: #cccccc;
+
+}
+
+.body1{
+    background-color: #ffffff;
+    width: 960px;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-color: #dddddd;
+    
+    
+}
+.section-1{
+    color: teal;
+    font: #777777;
+
+
+}
+.container{
+    
+    align-content: center;
+    font: #777777;
+   
+
+}
+
+.container-2{
+    align-content: center;
+    font: #777777;
+
+   
+}
+footer{
+    float: fixed;
+    background-color: #666666;
+    font: white;
+    text-align: center;
+}
+
+input[type=text]{
+    width: 80%;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+
+input[type=message]{
+    width: 80%;
+    height: 150px;
+    padding: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
